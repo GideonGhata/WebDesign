@@ -1,2 +1,2 @@
 # Web Design 
- Web design courses and projects(HTML, CSS, JavaScript)
+ Just some of the projects done with regards to UI/UX and web design
